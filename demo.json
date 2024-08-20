@@ -1,0 +1,6 @@
+[
+   [
+      "<div style=\"display: flex; gap: 12px; align-items: start; justify-content: start\" > <div style=\"flex-shrink: 0; display: flex; align-items: center\"> <img style=\"border-radius: 50%\" src=\"https://via.placeholder.com/80x80\" alt=\"\" /> </div> <div style=\"display: block\"> <b style=\"font-weight: 500; font-size: 24px\">Akash Rahman</b> <p style=\"font-size: 18px\"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam dolorem totam perferendis. </p> </div> </div>",
+      "<div style=\"display: flex; gap: 12px;\" > <div style=\"flex-shrink: 0;\"> <img style=\"border-radius: 50%\" src=\"https://via.placeholder.com/80x80\" alt=\"\" /> </div> <div> <b style=\"font-weight: 500; font-size: 24px\">Akash Rahman</b> <p style=\"font-size: 18px\"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam dolorem totam perferendis. </p> </div> </div>"
+   ]
+]

@@ -1,0 +1,28 @@
+/* styles.css */
+@import url("https://fonts.googleapis.com/css2?family=Imprima&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+body,
+html {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: "Inter", sans-serif;
+}
+
+#root {
+   display: grid;
+   grid-template-columns: repeat(2, 1fr);
+   gap: 48px;
+   padding: 24px;
+}
+
+#root > div {
+   border: 1px solid black;
+}
+
+#root > b {
+   font-size: xx-large;
+   font-family: Inter;
+   text-transform: uppercase;
+   font-weight: 600;
+}
